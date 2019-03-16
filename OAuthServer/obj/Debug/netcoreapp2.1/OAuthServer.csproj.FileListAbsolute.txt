@@ -1,0 +1,14 @@
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\bin\Debug\netcoreapp2.1\OAuthServer.deps.json
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\bin\Debug\netcoreapp2.1\OAuthServer.runtimeconfig.json
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\bin\Debug\netcoreapp2.1\OAuthServer.runtimeconfig.dev.json
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\bin\Debug\netcoreapp2.1\OAuthServer.dll
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\obj\Debug\netcoreapp2.1\OAuthServer.csprojAssemblyReference.cache
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\obj\Debug\netcoreapp2.1\OAuthServer.csproj.CoreCompileInputs.cache
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\obj\Debug\netcoreapp2.1\OAuthServer.RazorAssemblyInfo.cache
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\obj\Debug\netcoreapp2.1\OAuthServer.RazorAssemblyInfo.cs
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\obj\Debug\netcoreapp2.1\OAuthServer.AssemblyInfoInputs.cache
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\obj\Debug\netcoreapp2.1\OAuthServer.AssemblyInfo.cs
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\obj\Debug\netcoreapp2.1\OAuthServer.RazorTargetAssemblyInfo.cache
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\bin\Debug\netcoreapp2.1\OAuthServer.pdb
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\obj\Debug\netcoreapp2.1\OAuthServer.dll
+C:\Users\kenely.oliveira\source\repos\OAuthServer\OAuthServer\obj\Debug\netcoreapp2.1\OAuthServer.pdb
